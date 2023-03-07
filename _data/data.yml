@@ -9,21 +9,23 @@ sidebar:
     # Profile information
     name: Rubí Navarro
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+#    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: E120CF2C-8A37-4679-A9ED-4630DD50D247.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: sarainavarro688@gmail.com
+    phone: 5534085236
+    timezone: Entre semanas
+    citizenship: Veracruz/ Coatzacoalcos
+    website: rubi.web.com #do not add http://
+    linkedin: _iamrubii
+    xing: _iamrubii
+    github: Rubi-Navarro-proyecto
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@rubi_navarro'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
